@@ -1,5 +1,4 @@
-# アプリケーション名
-- check-test-form
+# お問い合わせフォーム
 
 ## 環境構築
 1. docker-compose exec php bash
