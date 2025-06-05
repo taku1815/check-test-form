@@ -1,0 +1,3 @@
+*.sqlite*
+# MySQL data directory
+docker/mysql/data/
